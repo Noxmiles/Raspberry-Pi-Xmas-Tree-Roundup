@@ -1,7 +1,7 @@
 # Raspberry-Pi-Xmas-Tree-Roundup
 All the code for the Raspberry Pi Xmas Tree by Andrew Gale of pocketmoneytronics in one simple program
 
-At the moment only basic tree.py and ChristmasTreeLight.py.
+At the moment only basic tree.py and christmasTreeLight.py.
 
 # Planned:
 - One File only
